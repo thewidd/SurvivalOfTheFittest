@@ -896,3 +896,290 @@ LogInit: Object subsystem initialized
 [2018.02.27-02.15.54:649][525]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2018.02.27-02.15.54:711][525]LogSlate: Took 0.002815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2018.02.27-02.15.54:842][526]LogSlate: Took 0.002779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.27-02.20.36:703][838]LogSavePackage: Save=20.75ms
+[2018.02.27-02.20.36:703][838]LogSavePackage: Moving '../../../../Projects/SurvivalOfTheFittest/Saved/StarterLevel_Auto3A182597046CFE8BACAD1309004F1779F.tmp' to '../../../../Projects/SurvivalOfTheFittest/Saved/Autosaves/Game/ThirdPersonBP/Maps/StarterLevel_Auto3.umap'
+[2018.02.27-02.20.37:318][838]LogSavePackage: Display: Finished SavePackage ../../../../Projects/SurvivalOfTheFittest/Saved/Autosaves/Game/ThirdPersonBP/Maps/StarterLevel_Auto3.umap
+[2018.02.27-02.20.37:320][838]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/StarterLevel' took 0.663
+[2018.02.27-02.20.37:320][838]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.663
+[2018.02.27-03.58.40:707][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.02.27-03.59.39:330][ 68]LogSavePackage: Save=21.22ms
+[2018.02.27-03.59.39:330][ 68]LogSavePackage: Moving '../../../../Projects/SurvivalOfTheFittest/Saved/StarterLevel_Auto40AE31A1A4F30378C3211579034D20DC0.tmp' to '../../../../Projects/SurvivalOfTheFittest/Saved/Autosaves/Game/ThirdPersonBP/Maps/StarterLevel_Auto4.umap'
+[2018.02.27-03.59.39:331][ 68]LogSavePackage: Display: Finished SavePackage ../../../../Projects/SurvivalOfTheFittest/Saved/Autosaves/Game/ThirdPersonBP/Maps/StarterLevel_Auto4.umap
+[2018.02.27-03.59.39:334][ 68]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/StarterLevel' took 0.051
+[2018.02.27-03.59.39:334][ 68]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.051
+[2018.02.27-04.07.01:540][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.02.27-04.07.02:001][260]Cmd: DELETE
+[2018.02.27-04.07.02:001][260]Cmd: ACTOR DELETE
+[2018.02.27-04.07.02:002][260]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.27-04.07.02:019][260]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.02.27-04.07.02:724][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.02.27-04.07.03:164][394]Cmd: DELETE
+[2018.02.27-04.07.03:164][394]Cmd: ACTOR DELETE
+[2018.02.27-04.07.03:165][394]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.27-04.07.03:183][394]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.02.27-04.07.08:563][ 37]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.02.27-04.07.12:378][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.27-04.07.12:537][500]Cmd: DELETE
+[2018.02.27-04.07.12:537][500]Cmd: ACTOR DELETE
+[2018.02.27-04.07.12:537][500]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.27-04.07.12:553][500]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.02.27-04.07.15:691][877]Cmd: TRANSACTION UNDO
+[2018.02.27-04.07.15:691][877]LogEditorTransaction: Undo Delete Actors
+[2018.02.27-04.07.21:260][539]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.02.27-04.07.21:723][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.27-04.07.22:132][635]Cmd: DELETE
+[2018.02.27-04.07.22:132][635]Cmd: ACTOR DELETE
+[2018.02.27-04.07.22:133][635]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.27-04.07.22:150][635]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.02.27-04.07.45:205][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2018.02.27-04.07.53:823][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2018.02.27-04.07.55:127][532]Cmd: DELETE
+[2018.02.27-04.07.55:127][532]Cmd: ACTOR DELETE
+[2018.02.27-04.07.55:128][532]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.27-04.07.55:145][532]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.02.27-04.07.55:530][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair2)
+[2018.02.27-04.07.55:670][591]Cmd: DELETE
+[2018.02.27-04.07.55:670][591]Cmd: ACTOR DELETE
+[2018.02.27-04.07.55:671][591]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.27-04.07.55:688][591]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.02.27-04.08.03:108][472]LogActorFactory: Actor Factory created SM_Chair
+[2018.02.27-04.08.03:734][547]LogActorFactory: Actor Factory created SM_Chair
+[2018.02.27-04.08.07:004][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound)
+[2018.02.27-04.08.08:220][ 61]Cmd: DELETE
+[2018.02.27-04.08.08:220][ 61]Cmd: ACTOR DELETE
+[2018.02.27-04.08.08:221][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.27-04.08.08:237][ 61]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.02.27-04.08.09:450][198]LogActorFactory: Actor Factory created SM_TableRound
+[2018.02.27-04.08.10:223][290]LogActorFactory: Actor Factory created SM_TableRound
+[2018.02.27-04.08.11:005][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2018.02.27-04.08.11:361][420]Cmd: EDIT COPY
+[2018.02.27-04.08.12:084][506]Cmd: EDIT PASTE
+[2018.02.27-04.08.14:139][748]Cmd: TRANSACTION UNDO
+[2018.02.27-04.08.14:139][748]LogEditorTransaction: Undo Scale Actors
+[2018.02.27-04.08.18:348][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2018.02.27-04.08.26:091][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair2)
+[2018.02.27-04.08.32:213][847]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.02.27-04.08.35:684][260]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.27-04.08.37:487][459]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-04.08.37:500][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-04.08.37:500][459]PIE: New page: PIE session: StarterLevel (Feb 26, 2018, 12:08:37 PM)
+[2018.02.27-04.08.37:500][459]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel
+[2018.02.27-04.08.37:503][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002918s)
+[2018.02.27-04.08.37:504][459]LogAIModule: Creating AISystem for world StarterLevel
+[2018.02.27-04.08.37:504][459]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2018.02.27-04.08.37:504][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/StarterLevel.StarterLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel.StarterLevel (0.003739s)
+[2018.02.27-04.08.37:528][459]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-04.08.37:543][459]LogInit: FAudioDevice initialized.
+[2018.02.27-04.08.37:572][459]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.27-04.08.37:573][459]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel.StarterLevel up for play (max tick rate 0) at 2018.02.26-20.08.37
+[2018.02.27-04.08.37:573][459]LogWorld: Bringing up level for play took: 0.000688
+[2018.02.27-04.08.37:585][459]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel -0.648
+[2018.02.27-04.08.55:127][530]Cmd: TRANSACTION UNDO
+[2018.02.27-04.08.55:127][530]LogEditorTransaction: Undo Select Brush Surface
+[2018.02.27-04.08.57:257][778]Cmd: TRANSACTION UNDO
+[2018.02.27-04.08.57:257][778]LogEditorTransaction: Undo Select Brush Surface
+[2018.02.27-04.08.57:934][856]Cmd: TRANSACTION UNDO
+[2018.02.27-04.08.57:934][856]LogEditorTransaction: Undo Set Material
+[2018.02.27-04.09.43:058][581]LogSavePackage: Save=47.08ms
+[2018.02.27-04.09.43:059][581]LogSavePackage: Moving '../../../../Projects/SurvivalOfTheFittest/Saved/StarterLevel_Auto5F34D891E451BCDE22A9CC396DBEF16DC.tmp' to '../../../../Projects/SurvivalOfTheFittest/Saved/Autosaves/Game/ThirdPersonBP/Maps/StarterLevel_Auto5.umap'
+[2018.02.27-04.09.43:060][581]LogSavePackage: Display: Finished SavePackage ../../../../Projects/SurvivalOfTheFittest/Saved/Autosaves/Game/ThirdPersonBP/Maps/StarterLevel_Auto5.umap
+[2018.02.27-04.09.43:064][581]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/StarterLevel' took 0.083
+[2018.02.27-04.09.43:064][581]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2018.02.27-04.12.16:659][220]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2018.02.27-04.12.26:309][324]Cmd: TRANSACTION UNDO
+[2018.02.27-04.12.26:309][324]LogEditorTransaction: Undo Move Actors
+[2018.02.27-04.12.26:312][324]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2018.02.27-04.12.26:312][324]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2018.02.27-04.12.26:312][324]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.02.27-04.13.02:057][546]Cmd: TRANSACTION UNDO
+[2018.02.27-04.13.02:057][546]LogEditorTransaction: Undo Set Location
+[2018.02.27-04.13.34:938][305]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2018.02.27-04.13.34:938][305]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2018.02.27-04.13.34:938][305]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.02.27-04.13.39:857][888]Cmd: TRANSACTION UNDO
+[2018.02.27-04.13.39:857][888]LogEditorTransaction: Undo Edit Z
+[2018.02.27-04.13.44:826][477]Cmd: TRANSACTION UNDO
+[2018.02.27-04.13.44:826][477]LogEditorTransaction: Undo Edit Y
+[2018.02.27-04.13.45:177][505]Cmd: TRANSACTION UNDO
+[2018.02.27-04.13.45:177][505]LogEditorTransaction: Undo Edit X
+[2018.02.27-04.14.06:487][919]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-04.14.06:496][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-04.14.06:496][919]PIE: New page: PIE session: StarterLevel (Feb 26, 2018, 12:14:06 PM)
+[2018.02.27-04.14.06:496][919]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel
+[2018.02.27-04.14.06:499][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002942s)
+[2018.02.27-04.14.06:499][919]LogAIModule: Creating AISystem for world StarterLevel
+[2018.02.27-04.14.06:500][919]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2018.02.27-04.14.06:500][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/StarterLevel.StarterLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel.StarterLevel (0.003759s)
+[2018.02.27-04.14.06:526][919]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-04.14.06:543][919]LogInit: FAudioDevice initialized.
+[2018.02.27-04.14.06:574][919]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.27-04.14.06:575][919]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel.StarterLevel up for play (max tick rate 0) at 2018.02.26-20.14.06
+[2018.02.27-04.14.06:576][919]LogWorld: Bringing up level for play took: 0.000655
+[2018.02.27-04.14.06:577][919]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel 0.345
+[2018.02.27-04.14.26:286][252]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-04.14.26:292][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-04.14.26:292][252]PIE: New page: PIE session: StarterLevel (Feb 26, 2018, 12:14:26 PM)
+[2018.02.27-04.14.26:292][252]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel
+[2018.02.27-04.14.26:295][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002683s)
+[2018.02.27-04.14.26:295][252]LogAIModule: Creating AISystem for world StarterLevel
+[2018.02.27-04.14.26:295][252]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2018.02.27-04.14.26:295][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/StarterLevel.StarterLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel.StarterLevel (0.003377s)
+[2018.02.27-04.14.26:320][252]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-04.14.26:335][252]LogInit: FAudioDevice initialized.
+[2018.02.27-04.14.26:368][252]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.27-04.14.26:369][252]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel.StarterLevel up for play (max tick rate 0) at 2018.02.26-20.14.26
+[2018.02.27-04.14.26:369][252]LogWorld: Bringing up level for play took: 0.000666
+[2018.02.27-04.14.26:371][252]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel 0.138
+[2018.02.27-04.14.40:800][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame)
+[2018.02.27-04.14.47:546][757]Cmd: TRANSACTION UNDO
+[2018.02.27-04.14.47:546][757]LogEditorTransaction: Undo Scale Actors
+[2018.02.27-04.16.10:885][165]Cmd: MODE GRID=0
+[2018.02.27-04.16.24:975][733]Cmd: TRANSACTION UNDO
+[2018.02.27-04.16.24:975][733]LogEditorTransaction: Undo Move Actors
+[2018.02.27-04.16.24:978][733]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2018.02.27-04.16.24:978][733]LogGeometryMode: Warning: Unable to resolve BoxBrush3 Brush in new BSP, see above
+[2018.02.27-04.16.24:978][733]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.02.27-04.16.30:573][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame)
+[2018.02.27-04.16.33:853][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame)
+[2018.02.27-04.17.44:661][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame)
+[2018.02.27-04.18.34:992][103]Cmd: TRANSACTION UNDO
+[2018.02.27-04.18.34:992][103]LogEditorTransaction: Undo Select Brush Surface
+[2018.02.27-04.18.36:515][282]Cmd: TRANSACTION UNDO
+[2018.02.27-04.18.36:515][282]LogEditorTransaction: Undo Edit X
+[2018.02.27-04.18.36:517][282]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/StarterLevel.StarterLevel:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.02.27-04.18.55:205][518]Cmd: TRANSACTION UNDO
+[2018.02.27-04.18.55:205][518]LogEditorTransaction: Undo Edit Z
+[2018.02.27-04.18.55:206][518]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/StarterLevel.StarterLevel:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.02.27-04.18.55:676][563]Cmd: TRANSACTION UNDO
+[2018.02.27-04.18.55:676][563]LogEditorTransaction: Undo Edit X
+[2018.02.27-04.18.55:678][563]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/StarterLevel.StarterLevel:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.02.27-04.19.16:409][959]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2018.02.27-04.19.16:409][959]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.02.27-04.19.36:075][234]Cmd: TRANSACTION UNDO
+[2018.02.27-04.19.36:075][234]LogEditorTransaction: Undo Move Actors
+[2018.02.27-04.20.00:786][989]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2018.02.27-04.20.00:786][989]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.02.27-04.20.06:702][660]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2018.02.27-04.20.06:702][660]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.02.27-04.20.26:307][899]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2018.02.27-04.20.26:307][899]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.02.27-04.20.42:519][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame)
+[2018.02.27-04.21.16:789][744]Cmd: TRANSACTION UNDO
+[2018.02.27-04.21.16:789][744]LogEditorTransaction: Undo Move Actors
+[2018.02.27-04.21.16:791][744]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/StarterLevel.StarterLevel:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2018.02.27-04.21.22:357][395]Cmd: TRANSACTION UNDO
+[2018.02.27-04.21.22:357][395]LogEditorTransaction: Undo Move Actors
+[2018.02.27-04.21.22:358][395]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/StarterLevel.StarterLevel:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2018.02.27-04.21.38:321][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame)
+[2018.02.27-04.21.47:074][251]Cmd: SELECT NONE
+[2018.02.27-04.21.52:401][875]LogSavePackage: Save=73.11ms
+[2018.02.27-04.21.52:401][875]LogSavePackage: Moving '../../../../Projects/SurvivalOfTheFittest/Saved/StarterLevelD27469324579DBC5826B47B6574CB69C.tmp' to '../../../../Projects/SurvivalOfTheFittest/Content/ThirdPersonBP/Maps/StarterLevel.umap'
+[2018.02.27-04.21.52:405][875]LogSavePackage: Display: Finished SavePackage ../../../../Projects/SurvivalOfTheFittest/Content/ThirdPersonBP/Maps/StarterLevel.umap
+[2018.02.27-04.21.52:420][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/StarterLevel_BuiltData" FILE="../../../../Projects/SurvivalOfTheFittest/Content/ThirdPersonBP/Maps/StarterLevel_BuiltData.uasset" SILENT=true
+[2018.02.27-04.21.52:433][875]LogSavePackage: Save=7.77ms
+[2018.02.27-04.21.52:434][875]LogSavePackage: Moving '../../../../Projects/SurvivalOfTheFittest/Saved/StarterLevel_BuiltDataF6BDAEF9450BC36420679591FA3431C0.tmp' to '../../../../Projects/SurvivalOfTheFittest/Content/ThirdPersonBP/Maps/StarterLevel_BuiltData.uasset'
+[2018.02.27-04.21.52:434][875]LogSavePackage: Display: Finished SavePackage ../../../../Projects/SurvivalOfTheFittest/Content/ThirdPersonBP/Maps/StarterLevel_BuiltData.uasset
+[2018.02.27-04.22.01:480][946]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2018.02.27-04.22.01:480][946]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.02.27-04.22.24:351][660]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-04.22.24:357][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-04.22.24:358][660]PIE: New page: PIE session: StarterLevel (Feb 26, 2018, 12:22:24 PM)
+[2018.02.27-04.22.24:358][660]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel
+[2018.02.27-04.22.24:361][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003027s)
+[2018.02.27-04.22.24:361][660]LogAIModule: Creating AISystem for world StarterLevel
+[2018.02.27-04.22.24:361][660]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2018.02.27-04.22.24:361][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/StarterLevel.StarterLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel.StarterLevel (0.003865s)
+[2018.02.27-04.22.24:387][660]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-04.22.24:403][660]LogInit: FAudioDevice initialized.
+[2018.02.27-04.22.24:433][660]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.27-04.22.24:434][660]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel.StarterLevel up for play (max tick rate 0) at 2018.02.26-20.22.24
+[2018.02.27-04.22.24:435][660]LogWorld: Bringing up level for play took: 0.000667
+[2018.02.27-04.22.24:436][660]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel 0.204
+[2018.02.27-04.22.42:281][768]LogMaterial: Missing cached shader map for material M_Bush, compiling. 
+[2018.02.27-04.22.42:419][775]LogActorFactory: Actor Factory created SM_Bush
+[2018.02.27-04.22.42:913][833]LogActorFactory: Actor Factory created SM_Bush
+[2018.02.27-04.22.53:040][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush)
+[2018.02.27-04.23.00:538][825]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-04.23.00:546][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-04.23.00:546][825]PIE: New page: PIE session: StarterLevel (Feb 26, 2018, 12:23:00 PM)
+[2018.02.27-04.23.00:546][825]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel
+[2018.02.27-04.23.00:549][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002964s)
+[2018.02.27-04.23.00:550][825]LogAIModule: Creating AISystem for world StarterLevel
+[2018.02.27-04.23.00:550][825]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2018.02.27-04.23.00:550][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/StarterLevel.StarterLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel.StarterLevel (0.003679s)
+[2018.02.27-04.23.00:575][825]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-04.23.00:590][825]LogInit: FAudioDevice initialized.
+[2018.02.27-04.23.00:617][825]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.27-04.23.00:618][825]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel.StarterLevel up for play (max tick rate 0) at 2018.02.26-20.23.00
+[2018.02.27-04.23.00:618][825]LogWorld: Bringing up level for play took: 0.000738
+[2018.02.27-04.23.00:620][825]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel 0.388
+[2018.02.27-04.23.08:927][810]LogMaterial: Missing cached shader map for material M_Lamp, compiling. 
+[2018.02.27-04.23.08:980][810]LogActorFactory: Actor Factory created SM_Lamp_Wall
+[2018.02.27-04.23.10:971][ 47]LogActorFactory: Actor Factory created SM_Lamp_Wall
+[2018.02.27-04.23.13:436][338]Cmd: TRANSACTION UNDO
+[2018.02.27-04.23.13:436][338]LogEditorTransaction: Undo Create Actors
+[2018.02.27-04.23.35:268][933]Cmd: SELECT NONE
+[2018.02.27-04.23.36:204][ 45]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-04.23.36:212][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-04.23.36:212][ 45]PIE: New page: PIE session: StarterLevel (Feb 26, 2018, 12:23:36 PM)
+[2018.02.27-04.23.36:212][ 45]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel
+[2018.02.27-04.23.36:216][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003113s)
+[2018.02.27-04.23.36:216][ 45]LogAIModule: Creating AISystem for world StarterLevel
+[2018.02.27-04.23.36:216][ 45]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2018.02.27-04.23.36:216][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/StarterLevel.StarterLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel.StarterLevel (0.003845s)
+[2018.02.27-04.23.36:240][ 45]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-04.23.36:255][ 45]LogInit: FAudioDevice initialized.
+[2018.02.27-04.23.36:283][ 45]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.27-04.23.36:284][ 45]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel.StarterLevel up for play (max tick rate 0) at 2018.02.26-20.23.36
+[2018.02.27-04.23.36:285][ 45]LogWorld: Bringing up level for play took: 0.000812
+[2018.02.27-04.23.36:286][ 45]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel 0.054
+[2018.02.27-04.23.53:430][ 92]LogMaterial: Missing cached shader map for material M_MaterialSphere, compiling. 
+[2018.02.27-04.23.53:491][ 92]LogMaterial: Missing cached shader map for material M_MaterialSphere_Plain, compiling. 
+[2018.02.27-04.23.53:533][ 93]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2018.02.27-04.23.54:214][174]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2018.02.27-04.24.02:593][130]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-04.24.02:602][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-04.24.02:602][130]PIE: New page: PIE session: StarterLevel (Feb 26, 2018, 12:24:02 PM)
+[2018.02.27-04.24.02:602][130]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel
+[2018.02.27-04.24.02:605][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002905s)
+[2018.02.27-04.24.02:605][130]LogAIModule: Creating AISystem for world StarterLevel
+[2018.02.27-04.24.02:605][130]LogPlayLevel: PIE: World Init took: (0.000465s)
+[2018.02.27-04.24.02:605][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/StarterLevel.StarterLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel.StarterLevel (0.003553s)
+[2018.02.27-04.24.02:629][130]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-04.24.02:645][130]LogInit: FAudioDevice initialized.
+[2018.02.27-04.24.02:675][130]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.27-04.24.02:676][130]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel.StarterLevel up for play (max tick rate 0) at 2018.02.26-20.24.02
+[2018.02.27-04.24.02:676][130]LogWorld: Bringing up level for play took: 0.000857
+[2018.02.27-04.24.02:678][130]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel 0.445
+[2018.02.27-04.24.15:369][637]LogSavePackage: Save=41.20ms
+[2018.02.27-04.24.15:369][637]LogSavePackage: Moving '../../../../Projects/SurvivalOfTheFittest/Saved/StarterLevelB84DD61B4B3E40ED3E53FC8438755484.tmp' to '../../../../Projects/SurvivalOfTheFittest/Content/ThirdPersonBP/Maps/StarterLevel.umap'
+[2018.02.27-04.24.15:371][637]LogSavePackage: Display: Finished SavePackage ../../../../Projects/SurvivalOfTheFittest/Content/ThirdPersonBP/Maps/StarterLevel.umap
+[2018.02.27-04.24.15:385][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/StarterLevel_BuiltData" FILE="../../../../Projects/SurvivalOfTheFittest/Content/ThirdPersonBP/Maps/StarterLevel_BuiltData.uasset" SILENT=true
+[2018.02.27-04.24.15:394][637]LogSavePackage: Save=6.82ms
+[2018.02.27-04.24.15:394][637]LogSavePackage: Moving '../../../../Projects/SurvivalOfTheFittest/Saved/StarterLevel_BuiltDataA8FA785E4FC40A65DD79E1937FC900D9.tmp' to '../../../../Projects/SurvivalOfTheFittest/Content/ThirdPersonBP/Maps/StarterLevel_BuiltData.uasset'
+[2018.02.27-04.24.15:395][637]LogSavePackage: Display: Finished SavePackage ../../../../Projects/SurvivalOfTheFittest/Content/ThirdPersonBP/Maps/StarterLevel_BuiltData.uasset
+[2018.02.27-04.28.13:291][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowFrame)
+[2018.02.27-04.28.25:472][995]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-04.28.25:482][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-04.28.25:482][995]PIE: New page: PIE session: StarterLevel (Feb 26, 2018, 12:28:25 PM)
+[2018.02.27-04.28.25:482][995]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel
+[2018.02.27-04.28.25:485][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003588s)
+[2018.02.27-04.28.25:486][995]LogAIModule: Creating AISystem for world StarterLevel
+[2018.02.27-04.28.25:486][995]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2018.02.27-04.28.25:486][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/StarterLevel.StarterLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel.StarterLevel (0.004367s)
+[2018.02.27-04.28.25:510][995]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-04.28.25:526][995]LogInit: FAudioDevice initialized.
+[2018.02.27-04.28.25:554][995]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.27-04.28.25:555][995]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel.StarterLevel up for play (max tick rate 0) at 2018.02.26-20.28.25
+[2018.02.27-04.28.25:555][995]LogWorld: Bringing up level for play took: 0.000855
+[2018.02.27-04.28.25:557][995]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_StarterLevel -0.675
+[2018.02.27-04.29.13:102][586]LogMaterial: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2018.02.27-04.29.30:482][582]LogMaterial: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2018.02.27-04.29.47:380][586]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2018.02.27-04.33.23:630][184]LogSavePackage: Save=58.90ms
+[2018.02.27-04.33.23:630][184]LogSavePackage: Moving '../../../../Projects/SurvivalOfTheFittest/Saved/StarterLevel5D5144C744C8C5391A74A39D3D8AC74D.tmp' to '../../../../Projects/SurvivalOfTheFittest/Content/ThirdPersonBP/Maps/StarterLevel.umap'
+[2018.02.27-04.33.23:632][184]LogSavePackage: Display: Finished SavePackage ../../../../Projects/SurvivalOfTheFittest/Content/ThirdPersonBP/Maps/StarterLevel.umap
+[2018.02.27-04.33.23:647][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/StarterLevel_BuiltData" FILE="../../../../Projects/SurvivalOfTheFittest/Content/ThirdPersonBP/Maps/StarterLevel_BuiltData.uasset" SILENT=true
+[2018.02.27-04.33.23:659][184]LogSavePackage: Save=7.09ms
+[2018.02.27-04.33.23:659][184]LogSavePackage: Moving '../../../../Projects/SurvivalOfTheFittest/Saved/StarterLevel_BuiltData71B1DAA44E35EA011212F9A00CA36C19.tmp' to '../../../../Projects/SurvivalOfTheFittest/Content/ThirdPersonBP/Maps/StarterLevel_BuiltData.uasset'
+[2018.02.27-04.33.23:660][184]LogSavePackage: Display: Finished SavePackage ../../../../Projects/SurvivalOfTheFittest/Content/ThirdPersonBP/Maps/StarterLevel_BuiltData.uasset
